@@ -20,7 +20,6 @@ On the way to Full-stack Developer
 
 ## My skills
 
-
 - Python
 - Django
 - HTML
