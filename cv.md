@@ -38,8 +38,8 @@ On the way to Full-stack Developer
 
 The code example is taken from course "Поколение Python": курс для начинающих on Stepik:
 
-```Python #Панграммы
-# объявление функции
+Панграммы
+```
 def is_pangram(text):
     alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z']
     count = 0
@@ -59,10 +59,8 @@ def is_pangram(text):
     else:
         return False
 
-# считываем данные
 text = input()
 
-# вызываем функцию
 print(is_pangram(text))
 ```
 
