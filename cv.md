@@ -29,6 +29,9 @@ On the way to Full-stack Developer
 - C#
 
 - Git/GitHub
+- Linux (Ubuntu, Debian, CentOS)
+- Windows
+- Unix (MacOS, FreeBSD)
 
 ---
 
